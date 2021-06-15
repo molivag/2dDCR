@@ -1,0 +1,7 @@
+matman.free/
+*.pos
+*res
+matman.free.tar
+*.Ds_Store
+c-files/
+*.que
