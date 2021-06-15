@@ -5,3 +5,4 @@ matman.free.tar
 *.Ds_Store
 c-files/
 *.que
+*.code-workspace
